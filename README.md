@@ -30,4 +30,3 @@ https://prod-in-a.online.tableau.com/t/sidrazaidi-3c230bafac/views/NorthfieldCo_
 
 ---
 
-## Repository Structure
